@@ -7,3 +7,5 @@ A simple terminal-based Snake game written in C, including source code and proje
 ## Files
 - `snake.c` — source code
 - `Snake Game.pdf` — detailed process notes
+- `updatedsnakegame.c` - updated and refined version of the snake game
+
